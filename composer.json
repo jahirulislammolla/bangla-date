@@ -1,0 +1,21 @@
+{
+    "name": "bangla/date",
+    "description": "English date to convert Bangla date.",
+    "type": "library",
+    "license": "1.0.1",
+    "autoload": {
+        "psr-4": {
+            "BanglaDate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jahirulislammolla",
+            "email": "jahirul.iit5th@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "10.5.x-dev"
+    }
+}
